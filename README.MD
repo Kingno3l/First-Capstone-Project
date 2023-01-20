@@ -1,36 +1,11 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
 
+  <img src="img/images.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>First capstone project(microverse)</b></h3>
+  <h3><b>Global business submit</b></h3>
 
 </div>
 
@@ -55,43 +30,27 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [NTS 2022] <a name="about-project"></a>
+# 📖 Global business summit <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**my first capstone project** is about national tech summit, here is a link for full description <a href="https://www.loom.com/share/e9f60868b7cf47cba3983c9c9ad6d849"> click here </a>
+**Global business summit 2023** this is my microsoft module 1 capstone project
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">Html</a></li>
+<ul>
+    <li><a href="">HTML</a></li>
+    <li><a href="">CSS</a></li>
+    <li><a href="">JavaScript</a></li>
   </ul>
-</details>
 
-<details>
-  <summary>styling and designs</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">css</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Functionality</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">javascript</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -99,10 +58,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **Header and menu**
-- **Programs**
-- **featured speakers**
-- **sponsors**
+- **Main page mobile and desktop version**
+- **about page mobile and desktop version**
+- **mobile first resposive webpages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +70,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://tobby8629.github.io/Capstone-project/index.html)
+- [Live Demo Link]( https://kingno3l.github.io/First-Capstone-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,34 +78,18 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
+git - git should be installed in local machine. git is necessary for cloning this project repository
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+git clone https://github.com/Uchenna-ibute/capstone1.git
 
 ### Install
 
@@ -206,12 +148,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **popoola samuel**
+👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/tobby8629)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/samuel-popoola-tobby/)
-
+- GitHub: [@githubhandle](https://github.com/Uchennaibute@github)
+- Twitter: [@twitterhandle](https://twitter.com/Uchennaibute@twitter)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Uchennaibute@linkedin)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,9 +162,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **section of videsos from the summit**
-- [ ] **A slideshow of images from the summit**
-- [ ] **Section for testmonies from past summit**
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -233,7 +174,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/Tobby8629/Capstone-project/issues](tobby8629/capstone-project/issues/).
+Feel free to check the [issues page](https://github.com/Uchenna-ibute/capstone1.git/issues).).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -243,7 +184,8 @@ Feel free to check the [https://github.com/Tobby8629/Capstone-project/issues](to
 
 > Write a message to encourage readers to support your project
 
-If you like this project, please kindly follow to see more beautiful projects
+If you like this project, please provide a STAR in 
+[Github project repository](https://github.com/Uchenna-ibute/capstone1.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -253,15 +195,23 @@ If you like this project, please kindly follow to see more beautiful projects
 
 > Give credit to everyone who inspired your codebase.
 
-- I would like to thank the microverse organization and my friends who have been supportive throughout the course of this project
-- I appreciate <a href="https://www.behance.net/adagio07">cindy shin</a>cindy shin the author of the CC GLOBAL SUMMIT 2015 for the access giving to me to work with the template.
+I would like to thank [Cindy Shin](https://www.behance.net/adagio07) for the webpage design template. The deign can be found on Behance in the below link.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -270,7 +220,5 @@ If you like this project, please kindly follow to see more beautiful projects
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
