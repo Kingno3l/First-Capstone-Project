@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="img/images.jpg" alt="logo" width="140"  height="auto" />
+  <img src="images/images.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Global business submit</b></h3>
