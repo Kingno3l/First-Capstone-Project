@@ -11,57 +11,52 @@ tray.addEventListener('click', () => {
 
 const speakers = [
   {
-    speaker: 'ire aderinokun',
-    title: 'first female google developer expert in nigeria',
-    desc: `Ire Aderinokun is the first female goggle developer experts in Nigeria, 
-        user interface designer, and also co-founder, Chief Operating Officer and VP Engineering of Helicarrier.`,
-    image: 'images/iree.jfif',
-    alt: 'picture of ire-aderinokun',
+    speaker: 'Don Eugene',
+    title: 'Life CoachLife Coach | Self-employed',
+    desc: `With 10 years of experience working in the industry, providing rare values to his customers`,
+    image: 'images/don.jpeg',
+    alt: 'picture of don',
   },
 
   {
-    speaker: 'abasi ene-obong',
-    title: 'ceo and founder, 54gene',
-    desc: `Abasi Ene-Obong is the founder and Chief Executive Officer of 54gene, 
-        a health technology company advancing the state of healthcare through large-scale discovery.`,
-    image: 'images/Dr-Abasi-Ene-Obong-CEO-Founder-54gene_HighRes-1.jpg',
-    alt: 'picture of abasi ene-obong',
+    speaker: 'peter enenche',
+    title: 'senior engineer turing',
+    desc: `peter enenche is a senior software engineer for turing inc. and an andriod developer.`,
+    image: 'images/Unknown-2.jpg',
+    alt: 'picture of peter enenche',
   },
 
   {
-    speaker: 'Danny thompson',
-    title: 'works at google',
-    desc: 'Experienced Leader with a demonstrated history of working in the computer software industry.',
-    image: 'images/danny.webp',
-    alt: 'picture of danny thompson',
+    speaker: 'Offia Mike',
+    title: 'works at Sapin',
+    desc: 'Great team lead.',
+    image: 'images/Offia-Michael-IT-and-Media.jpg.webp',
+    alt: 'picture of Mike',
 
   },
 
   {
-    speaker: 'Akinola Akinade',
+    speaker: 'Olarinde Owoniyi',
     title: 'ceo and founder  of aptlearn',
-    desc: `Software engineer and tech expert, Akinola Abdulakeem Akinade, has revealed why he’s tutoring young Nigerians trying to get
-          into tech space for free on social media.`,
-    image: 'images/Agba-Akin.jpg',
-    alt: 'picture of Akinola akinade',
+    desc: `CEO of VIZMO Inc and LAR Global resource`,
+    image: 'images/images-2.jpeg',
+    alt: 'picture of Olarinde Owoniyi',
   },
 
   {
-    speaker: 'Katie King',
-    title: 'linkedIn and instagram influencer',
-    desc: `Voted a Top 30 Woman in AI in August 2021, British-born Katie King is a Board Advisor, 
-        published author, and keynote speaker on artificial intelligence and digital transformation.`,
-    image: 'images/Katie-King.webp',
-    alt: 'picture of katie-king',
+    speaker: 'Celina Unogwu',
+    title: 'CUVA Vision Party',
+    desc: `team Lead and director CUVA vision board party`,
+    image: 'images/CELINA-UNOGWU-Advisory-Board.jpg.webp',
+    alt: 'picture of celina',
   },
 
   {
-    speaker: 'lila tretikov',
-    title: 'executive director of the wikimedia foundation',
-    desc: `Ms. Tretikov is a Corporate Vice President & Deputy Chief Technology Officer at Microsoft Corporation,
-         and a leading expert on Artificial Intelligence and business transformation.`,
-    image: 'images/lila-tretikov.jpg',
-    alt: 'picture of lila tretikov',
+    speaker: 'Loretta Ovrere',
+    title: 'co founder wallpaper world foundation',
+    desc: `MD wallpaper world`,
+    image: 'images/images.jpeg',
+    alt: 'picture of Loretta Ovrere',
   },
 ];
 
