@@ -195,7 +195,7 @@ If you like this project, please provide a STAR in
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank [Cindy Shin](https://www.behance.net/adagio07) for the webpage design template. The deign can be found on Behance in the below link.
+I would like sincerely thank [Cindy Shin](https://www.behance.net/adagio07) for the webpage design template. The deign can be found on Behance in the below link.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
