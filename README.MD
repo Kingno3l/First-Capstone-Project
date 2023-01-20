@@ -89,7 +89,7 @@ git - git should be installed in local machine. git is necessary for cloning thi
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/Uchenna-ibute/capstone1.git
+git clone https://github.com/Kingno3l/First-Capstone-Project/git
 
 ### Install
 
@@ -150,9 +150,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Uchennaibute@github)
-- Twitter: [@twitterhandle](https://twitter.com/Uchennaibute@twitter)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/Uchennaibute@linkedin)
+- GitHub: [@githubhandle](https://github.com/Kingno3l@github)
+- Twitter: [@twitterhandle](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/kingno3l)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +174,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Uchenna-ibute/capstone1.git/issues).).
+Feel free to check the [issues page](https://github.com/Kingno3l/First-Capstone-Project).).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +185,7 @@ Feel free to check the [issues page](https://github.com/Uchenna-ibute/capstone1.
 > Write a message to encourage readers to support your project
 
 If you like this project, please provide a STAR in 
-[Github project repository](https://github.com/Uchenna-ibute/capstone1.git)
+[Github project repository](https://github.com/Kingno3l/First-Capstone-Project.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
